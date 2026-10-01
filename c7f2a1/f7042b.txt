@@ -1,0 +1,11 @@
+A
+P1  Q2
+P2  Q4
+P3  Q1
+P4  Q3
+
+B
+P1  Q1
+P2  Q4
+P3  Q1
+P4  Q3

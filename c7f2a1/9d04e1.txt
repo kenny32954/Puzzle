@@ -1,0 +1,7 @@
+MD-22-A   1
+MD-22-B   1
+MD-22-C   1
+MD-22-D   0
+
+A B D
+A B C

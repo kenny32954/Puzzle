@@ -1,0 +1,8 @@
+A  1842  TXT   8f7b
+B  1891  HTML  31c2
+C  1842  TXT   8f7b
+D  1842  BIN   5aa1
+
+A=C
+A≠B
+A≠D
