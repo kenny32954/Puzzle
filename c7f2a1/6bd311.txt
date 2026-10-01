@@ -1,10 +1,5 @@
 BX-17
 
-outer.dat
-└── packet.bin
-    └── frame.img
-        └── note.dat
-
 1842
 1891
 49
