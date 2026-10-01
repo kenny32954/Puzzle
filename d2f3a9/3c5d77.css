@@ -1,5 +1,5 @@
 :root{--paper:#d8d1bf;--ink:#282622;--k:45;--z:100}
 *{box-sizing:border-box}html,body{margin:0;height:100%;background:#1d2225;color:#d9dddf;font:14px Arial,sans-serif}
 .top{height:54px;background:#101416;border-bottom:1px solid #343a3d;display:flex;align-items:center;justify-content:space-between;padding:0 18px}.brand{font-weight:700;letter-spacing:.04em}.tools{display:flex;gap:8px;flex-wrap:wrap}.tools button{background:#293034;border:1px solid #465057;color:#e7ebed;padding:7px 11px;border-radius:4px;cursor:pointer}.tools button:hover{background:#343d42}.stage{height:calc(100% - 54px);overflow:auto;display:grid;place-items:center;padding:45px}.frame{background:#090b0c;padding:18px;box-shadow:0 18px 70px #0008;transition:.15s}.frame img{display:block;width:760px;max-width:none;transform-origin:center;filter:grayscale(1) contrast(1.03)}.meta{position:fixed;bottom:10px;right:14px;color:#6c767b;font:11px monospace;opacity:.7}
-body.inv .frame img{filter:grayscale(1) invert(1) contrast(1.05)}body.hi .frame img{filter:grayscale(1) contrast(1.8)}
+
 @media(max-width:800px){.stage{place-items:start center}.frame img{width:680px}.top{height:auto;min-height:54px;padding:10px}.stage{height:calc(100% - 74px)}}
