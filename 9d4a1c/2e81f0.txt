@@ -1,0 +1,25 @@
+CITY STORAGE ANNEX
+WEEKLY SHELF RECONCILIATION
+FORM 22-C
+
+BAY   OPEN   CLOSE
+A01   180    83
+A02   183    129
+A03   186    137
+A04   189    87
+A05   192    144
+A06   195    144
+A07   198    151
+B01   201    144
+B02   204    155
+B03   207    106
+B04   210    158
+B05   213    116
+B06   216    119
+B07   219    173
+C01   222    118
+C02   225    109
+C03   228    119
+C04   231    123
+
+Filed with routine inventory records.
