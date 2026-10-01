@@ -7,4 +7,3 @@ WONDERHOP SUPPLY REQUEST
 
 Requested: 17
 Received: 15
-Count verified twice.
