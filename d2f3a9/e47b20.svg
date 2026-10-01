@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs>
+<pattern id="p" width="150" height="120" patternUnits="userSpaceOnUse">
+<rect width="150" height="120" fill="#ffd9e9"/>
+<circle cx="20" cy="20" r="8" fill="#fff06a"/><path d="M65 22l7 14 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" fill="#6ed8ff"/>
+<path d="M112 70c18-28 42 4 0 30-42-26-18-58 0-30z" fill="#ff69ad"/>
+<text x="137" y="116" font-family="monospace" font-size="5" fill="#ffd8e8">0317</text>
+</pattern>
+<linearGradient id="g" x2="1" y2="1"><stop stop-color="#ff79bd"/><stop offset=".35" stop-color="#fff37b"/><stop offset=".68" stop-color="#83e4c1"/><stop offset="1" stop-color="#78cfff"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#p)"/>
+<path d="M0 700 Q250 570 500 700 T1000 700 T1500 700 T2000 700 V900H0Z" fill="#74d994"/>
+<circle cx="1300" cy="180" r="110" fill="#fff36d" stroke="#ff9b4d" stroke-width="18"/>
+<g stroke="#ff9b4d" stroke-width="14"><path d="M1300 25v-70M1300 405v-70M1145 180h-70M1525 180h-70"/></g>
+<g transform="translate(780 250)">
+<ellipse cx="210" cy="260" rx="155" ry="180" fill="#fff6df"/><ellipse cx="135" cy="85" rx="48" ry="145" fill="#fff6df" transform="rotate(-12 135 85)"/><ellipse cx="285" cy="85" rx="48" ry="145" fill="#fff6df" transform="rotate(12 285 85)"/>
+<circle cx="165" cy="230" r="14" fill="#513b62"/><circle cx="255" cy="230" r="14" fill="#513b62"/><ellipse cx="210" cy="270" rx="18" ry="12" fill="#ff82ad"/><path d="M185 300q25 28 50 0" fill="none" stroke="#513b62" stroke-width="8"/>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle"><text x="530" y="290" font-size="86" font-weight="900" fill="#fff" stroke="#ef4d9b" stroke-width="14" paint-order="stroke">SUNNYSPROUT!</text><text x="530" y="365" font-size="45" font-weight="800" fill="#4d9b74">SMALL SEEDS • BIG HAPPINESS!</text></g>
+<g opacity=".055" font-family="monospace" font-size="22" fill="#28172e"><text x="82" y="622">6 3 31 1 6</text><text x="83" y="646">17 04 / 22 09</text></g>
+</svg>

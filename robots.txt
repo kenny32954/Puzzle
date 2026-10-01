@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kenny32954.github.io/Puzzle/sitemap.xml
