@@ -3,6 +3,6 @@
 const s=Array.from({length:10},(_,i)=>(0x8d72c>>(18-i*2))&3),ks=[...document.querySelectorAll('.k')],bar=document.getElementById('bar');let p=0,live=false;
 function pulse(i,d=300){ks[i].classList.add('on');setTimeout(()=>ks[i].classList.remove('on'),d)}
 function show(){live=false;p=0;s.forEach((n,i)=>setTimeout(()=>pulse(n,260),500+i*430));setTimeout(()=>live=true,500+s.length*430+180)}
-ks.forEach(k=>k.onclick=()=>{const n=+k.dataset.n;pulse(n,120);if(!live)return;if(n===s[p]){p++;if(p===s.length){live=false;bar.classList.add('ok');localStorage.setItem('bwrelay','1');setTimeout(()=>location.href='/Puzzle/3f01aa/77c1e4.html',1200)}}else{bar.classList.remove('ok');show()}});
+ks.forEach(k=>k.onclick=()=>{const n=+k.dataset.n;pulse(n,120);if(!live)return;if(n===s[p]){p++;if(p===s.length){live=false;bar.classList.add('ok');localStorage.setItem('bwrelay','1');setTimeout(()=>location.href=[122,5,32,47,47,57,48,122,102,51,101,100,52,52,122,98,98,54,100,48,97,123,61,33,56,57].map(n=>String.fromCharCode(n^85)).join(''),1200)}}else{bar.classList.remove('ok');show()}});
 setTimeout(show,900);
 </script></body></html>
