@@ -3,14 +3,31 @@ FACILITIES LOG
 
 17 MARCH 1994
 
-02:48  east corridor light replaced
-03:02  freight lift tested
-03:16  clock circuit reset
-03:24  west desk clock reset
-03:29  conservation room clock reset
-03:19  public address relay tested
-03:36  basement telephone line restored
-03:44  night staff signed out
+TIME   TAG   ENTRY
+02:11  h2    freight lift relay checked
+01:03  M3    east corridor lamp replaced
+04:03  59    conservation fan isolated
+01:35  Z1    basement conduit inspected
+03:03  Z7    west desk clock serviced
+01:11  m0    receiving door latch adjusted
+04:27  G0    stairwell buzzer tested
+02:27  z6    gallery breaker reset
+03:27  k8    reading-room vent cleaned
+01:27  24    roof sensor contact checked
+04:35  17    north hall fixture replaced
+02:03  F5    freight call switch tested
+04:11  o6    records-room thermostat logged
+02:43  40    loading-bay contact replaced
+01:19  M7    public-address relay tested
+03:43  C2    elevator bell contact checked
+02:19  L9    basement telephone pair restored
+04:43  s4    night staff signed out
+01:43  T8    conservation-room lamp changed
+03:19  N1    east stair fan inspected
+02:35  A3    central gallery outlet tested
+04:19  d3    archive-room clock adjusted
+03:11  j4    boiler indicator checked
+03:35  N5    upper landing fixture logged
 
 M. VALE
 R. NORTH
